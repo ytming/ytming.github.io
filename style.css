@@ -49,6 +49,7 @@ body{
     overflow: hidden;
     white-space: nowrap; /* 禁止换行 */
     width: auto; /* 自动宽度 */
+    font-size:25px;
 }
 .module a:hover{
     background: #03e9f4;
